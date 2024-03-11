@@ -4,6 +4,9 @@ int main() {
     // Khai báo biến
     int a, b, sum;
 
+    // In ra chuỗi "Hello"
+    std::cout << "Hello" << std::endl;
+
     // Nhập giá trị của hai số từ người dùng
     std::cout << "Nhập số thứ nhất: ";
     std::cin >> a;
