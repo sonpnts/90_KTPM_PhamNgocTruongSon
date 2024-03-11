@@ -1,2 +1,2 @@
 àafsasfafsdasdf
-cuong ngu 0
+cuong 10 diem
