@@ -20,5 +20,5 @@ int main() {
     // Hiển thị tổng
     std::cout << "Tổng của hai số là: " << sum << std::endl;
 
-    return 0;
+    return 0;;
 }
